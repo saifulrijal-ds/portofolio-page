@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning on Saiful Rijal</title>
+    <link>https://saifulrijal-ds.github.io/portofolio-page/tags/machine-learning/</link>
+    <description>Recent content in Machine Learning on Saiful Rijal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://saifulrijal-ds.github.io/portofolio-page/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Build Machine Learning Web App with Streamlit</title>
+      <link>https://saifulrijal-ds.github.io/portofolio-page/portfolio/project2/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://saifulrijal-ds.github.io/portofolio-page/portfolio/project2/</guid>
+      <description>Build Machine Learning Web App with Streamlit and Python Guided project from Coursera: Build Machine Learning Web App with Streamlit and Python. In this simple project we are building a machine learning web app. In this web app we can:
+ select a classifier (selecting a model: SVM, Logistic Regression, and Random Forest), adjust the hyperparameter for each classifier, Choose a visualization from the classification metrics. To know how to run python files in streamlit, please refer to the following link.</description>
+    </item>
+    
+  </channel>
+</rss>

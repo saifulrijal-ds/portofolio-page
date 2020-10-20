@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>classification on Saiful Rijal</title>
+    <link>https://saifulrijal-ds.github.io/portofolio-page/tags/classification/</link>
+    <description>Recent content in classification on Saiful Rijal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://saifulrijal-ds.github.io/portofolio-page/tags/classification/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Image Classification with Deep Learning</title>
+      <link>https://saifulrijal-ds.github.io/portofolio-page/portfolio/project1/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://saifulrijal-ds.github.io/portofolio-page/portfolio/project1/</guid>
+      <description>Image Classification with Deep Learning (On Progress) Guided project from Udemy: Complete 2020 Data Science &amp;amp; Machine Learning Bootcamp (with a few adjustments)
+ Predict images using the pre-trained model from Keras package (tensorflow.keras.application. Includes image loading, pre-processing, loading models and predicting images. notebook: &amp;lsquo;Pretrained_Image_Classification.ipynb&amp;rsquo;. Image Classification with CIFAR-10 dataset. Include get the data, pre-processing, build neural network Keras model, visualising learning with Tensorboard (On Progress). notebook: &amp;lsquo;Keras_CIFAR10_Classification.ipynb&amp;rsquo;.  Link to github repsitory</description>
+    </item>
+    
+    <item>
+      <title>Build Machine Learning Web App with Streamlit</title>
+      <link>https://saifulrijal-ds.github.io/portofolio-page/portfolio/project2/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://saifulrijal-ds.github.io/portofolio-page/portfolio/project2/</guid>
+      <description>Build Machine Learning Web App with Streamlit and Python Guided project from Coursera: Build Machine Learning Web App with Streamlit and Python. In this simple project we are building a machine learning web app. In this web app we can:
+ select a classifier (selecting a model: SVM, Logistic Regression, and Random Forest), adjust the hyperparameter for each classifier, Choose a visualization from the classification metrics. To know how to run python files in streamlit, please refer to the following link.</description>
+    </item>
+    
+  </channel>
+</rss>

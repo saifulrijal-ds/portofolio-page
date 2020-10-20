@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Saiful Rijal</title>
+    <link>https://saifulrijal-ds.github.io/portofolio-page/tags/</link>
+    <description>Recent content in Tags on Saiful Rijal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://saifulrijal-ds.github.io/portofolio-page/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>classification</title>
+      <link>https://saifulrijal-ds.github.io/portofolio-page/tags/classification/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://saifulrijal-ds.github.io/portofolio-page/tags/classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deep learning</title>
+      <link>https://saifulrijal-ds.github.io/portofolio-page/tags/deep-learning/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://saifulrijal-ds.github.io/portofolio-page/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://saifulrijal-ds.github.io/portofolio-page/tags/machine-learning/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://saifulrijal-ds.github.io/portofolio-page/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Streamlit</title>
+      <link>https://saifulrijal-ds.github.io/portofolio-page/tags/streamlit/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://saifulrijal-ds.github.io/portofolio-page/tags/streamlit/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
